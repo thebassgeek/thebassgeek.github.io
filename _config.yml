@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 docs_list_title: The Bass Geek
 docs:
 - title: home
-  url: index.html
+  url: index.md
