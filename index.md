@@ -1,6 +1,7 @@
 ---
-title: The Bass Geek
+title: Home
 layout: post
+by: Ryan
 ---
 
 Hello, world!
