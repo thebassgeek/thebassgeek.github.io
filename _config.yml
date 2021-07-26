@@ -1,9 +1,3 @@
+title: The Bass Geek
+description: Github Pages Site for The Bass Geek
 theme: jekyll-theme-minimal
-docs_list_title: The Bass Geek
-docs:
-- title: home
-  url: index.md
-- title: Website
-  url: website.md
-exclude:
-  readme.md
