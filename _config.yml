@@ -3,3 +3,5 @@ docs_list_title: The Bass Geek
 docs:
 - title: home
   url: index.md
+exclude:
+  readme.md
