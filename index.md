@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Bassist. Author. Geek.
 layout: post
 ---
 
